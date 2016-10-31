@@ -1,2 +1,4 @@
 ## hello from Khalaq
 khalaq <- c(6, 7, 8)
+
+kha <- c(4 , 5, 5, 7)
